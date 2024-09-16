@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "customer": "Branson Weimann",
+      "lastSeen": "08/08/2020",
+      "orders": 2,
+      "totalSpent": "295.31",
+      "latestPurchase": "27/11/2019 13:12:25",
+      "news": true,
+      "segments": "Regular"
+    },
+    {
+      "id": 2,
+      "customer": "Anna Bruen",
+      "lastSeen": "08/08/2020",
+      "orders": 3,
+      "totalSpent": "647.91",
+      "latestPurchase": "07/06/2020 07:48:18",
+      "news": false,
+      "segments": "Regular"
+    },
+    {
+      "id": 3,
+      "customer": "Gudrun Tromp",
+      "lastSeen": "08/08/2020",
+      "orders": 0,
+      "totalSpent": "0.00",
+      "latestPurchase": "N/A",
+      "news": true,
+      "segments": "Regular"
+    },
+    {
+      "id": 4,
+      "customer": "Florencio Roob",
+      "lastSeen": "08/08/2020",
+      "orders": 0,
+      "totalSpent": "0.00",
+      "latestPurchase": "N/A",
+      "news": true,
+      "segments": "Regular"
+    },
+    {
+      "id": 5,
+      "customer": "Maddison Torp",
+      "lastSeen": "08/08/2020",
+      "orders": 0,
+      "totalSpent": "0.00",
+      "latestPurchase": "N/A",
+      "news": true,
+      "segments": "Regular"
+    },
+    {
+      "id": 6,
+      "customer": "Rashawn Beer",
+      "lastSeen": "08/08/2020",
+      "orders": 3,
+      "totalSpent": "693.50",
+      "latestPurchase": "19/05/2020 10:03:18",
+      "news": false,
+      "segments": "Regular"
+    },
+    {
+      "id": 7,
+      "customer": "Beth Hill",
+      "lastSeen": "08/08/2020",
+      "orders": 0,
+      "totalSpent": "0.00",
+      "latestPurchase": "N/A",
+      "news": true,
+      "segments": "Regular"
+    },
+    {
+      "id": 8,
+      "customer": "Brandyn Hoeger",
+      "lastSeen": "08/08/2020",
+      "orders": 0,
+      "totalSpent": "0.00",
+      "latestPurchase": "N/A",
+      "news": false,
+      "segments": "Regular"
+    },
+    {
+      "id": 9,
+      "customer": "Rey Schuster",
+      "lastSeen": "08/08/2020",
+      "orders": 0,
+      "totalSpent": "0.00",
+      "latestPurchase": "N/A",
+      "news": true,
+      "segments": "Regular"
+    },
+    {
+      "id": 10,
+      "customer": "Jakob Armstrong",
+      "lastSeen": "08/08/2020",
+      "orders": 0,
+      "totalSpent": "0.00",
+      "latestPurchase": "N/A",
+      "news": true,
+      "segments": "Regular"
+    },
+    {
+      "id": 11,
+      "customer": "Janae Glover",
+      "lastSeen": "08/08/2020",
+      "orders": 0,
+      "totalSpent": "0.00",
+      "latestPurchase": "N/A",
+      "news": true,
+      "segments": "Regular"
+    },
+    {
+      "id": 12,
+      "customer": "Dina Tillman",
+      "lastSeen": "08/08/2020",
+      "orders": 0,
+      "totalSpent": "0.00",
+      "latestPurchase": "N/A",
+      "news": true,
+      "segments": "Regular"
+    }
+  ]
+  
